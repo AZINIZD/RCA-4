@@ -1,0 +1,1 @@
+This repository contains the implementation of a 4-bit Ripple Carry Adder (RCA), a fundamental digital circuit used for binary addition. The design is based on the concept of cascading multiple 1-bit full adders to achieve the addition of two 4-bit binary numbers along with a carry input.
