@@ -12,4 +12,4 @@ module FullAdder(a,b,cin,cout,sum);
     cout <= (a & b) | (a & cin) | (b & cin); 
     end 
 
-endmodule   
+endmodule  
